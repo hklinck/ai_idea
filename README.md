@@ -1,8 +1,4 @@
-# ai_idea
-AI process idea inspired by Vitalik paper
-
-
-Trying to Flesh Out AI Idea
+# Trying to Flesh Out AI Idea
 
 Inspired by: https://vitalik.eth.limo/general/2025/02/28/aihumans.html#1
 
@@ -13,7 +9,7 @@ New Idea: submit a prompt, and a set of scoring functions, to a pool of agents (
 	- This idea should provide users with better (more accurate, cheaper, quicker) responses because you’re leveraging strengths from various models instead of relying on one singular model.
 
 
-First Idea:
+# First Idea:
 
 In the scenario where the prompt is a set of mathematical/accounting/engineering problems, we expect “correct” responses. 
 
@@ -36,11 +32,11 @@ How can we find optimal *combinations* of model responses?
 
 Implication of this idea: eventually, agents will develop models which are fine-tuned or tailored specific types of problems, then only submit responses to prompts in their scope of ‘expertise’
 
-Another Idea:
+# Another Idea:
 
 If you believe there will be a market of multiple models in the future, there will be a need for model experts who consult with people/businesses to determine which model they should be using.
 
-Second Idea: 
+# Second Idea: 
 
 *unrelated to above
 
